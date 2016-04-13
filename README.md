@@ -1,4 +1,4 @@
-Restaurant
+Falafels
 ==========
 
-A template for Restaurant business
+Falafels para el papaloy.
